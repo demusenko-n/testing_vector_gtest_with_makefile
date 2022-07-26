@@ -1,4 +1,5 @@
 /googletest
+.vs/
 # Prerequisites
 *.d
 
